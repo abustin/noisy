@@ -1,4 +1,4 @@
-# noisy [![Build Status](https://travis-ci.org/cacteye/noisy.svg?branch=master)](https://travis-ci.org/cacteye/noisy)
+# noisy [![Build Status](https://travis-ci.org/abustin/noisy.svg?branch=master)](https://travis-ci.org/abustin/noisy)
 
 **noisy** is a procedural noise generation library written for Rust.
 
